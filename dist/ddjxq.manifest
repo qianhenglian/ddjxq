@@ -1,0 +1,22 @@
+{
+    "name": "ddjxq",
+    "short_name": "ddjxq",
+    "description": "",
+    "icons": [
+        {
+            "src": "ddjxq.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "ddjxq512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "orientation": "any"
+}
